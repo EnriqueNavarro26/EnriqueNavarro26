@@ -1,4 +1,11 @@
 ![Header](imgs/header.png)
+
+I am an artificial intelligence researcher who is passionate about solving problems. In this repository you can find multiple projects, written in python, that show how to apply AI to different scenarios. 
+
+## Contact me 
+If you want to contact me, you can write to my email address: [enriquenavarro26@hotmail.com](mailto:enriquenavarro26@hotmail.com)
+
+
 <!-- load image>
 
 <!--
